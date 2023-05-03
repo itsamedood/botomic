@@ -1,3 +1,5 @@
 /.archive
+/.archive_src
 /node_modules
 /test
+*.DS_Store
