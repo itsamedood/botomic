@@ -7,8 +7,11 @@
 
 # Installation:
 ```sh
+# Instructions will be added upon release.
+```
+<!-- ```sh
 $ npm i -g botomic
 $ npx botomic
-```
+``` -->
 
 <!-- ##### *Better than Slappey 😉* -->
