@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"name": "Run",
+			"program": "${workspaceFolder}/src/index.js",
+			"request": "launch",
+			"console": "integratedTerminal",
+			"skipFiles": [
+				"<node_internals>/**"
+			],
+			"type": "node"
+		}
+	]
+}
